@@ -1,0 +1,14 @@
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.exe
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.deps.json
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.runtimeconfig.json
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.dll
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.pdb
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.AssemblyInfoInputs.cache
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.AssemblyInfo.cs
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.csproj.CoreCompileInputs.cache
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.dll
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\obj\Debug\net8.0\refint\StudentGradeManagementSystem.dll
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.pdb
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.genruntimeconfig.cache
+c:\Users\Kareem\student mangement system\StudentGradeManagementSystem\obj\Debug\net8.0\ref\StudentGradeManagementSystem.dll
